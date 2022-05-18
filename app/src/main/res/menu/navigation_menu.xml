@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuProfile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menuContacts"
+        android:icon="@drawable/ic_contacts"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/menuNotifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/menuAppearance"
+        android:icon="@drawable/ic_apperance"
+        android:title="Appearance" />
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+    <item
+        android:id="@+id/menuInfo"
+        android:icon="@drawable/ic_info"
+        android:title="Info" />
+</menu>
